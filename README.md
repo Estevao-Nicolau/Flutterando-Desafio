@@ -1,16 +1,6 @@
-# curso_flutterando
+<h1 align="center"> Desafio Telas </h1>
 
-A new Flutter project.
+# 📁 Os desafio estão na Pasta lid, separados por arquivo.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 
+![Captura de Tela 2022-10-31 às 16 21 48](https://user-images.githubusercontent.com/79880613/199105035-26d7efeb-17e8-4a78-b0fc-fa8564b9dfe1.png)
